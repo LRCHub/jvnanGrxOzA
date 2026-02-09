@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "暇",
+  "base_artist": "Miyauchi",
+  "createdAt": "2026-02-09T18:24:50.616489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0-2.いま、暇？",
+      "artist": "かずたまそふと",
+      "has_synced": true,
+      "path": "select/01_0-2.いま、暇_かずたまそふと.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暇",
+      "artist": "Miyauchi",
+      "has_synced": false,
+      "path": "select/pl_01_暇_Miyauchi.txt"
+    }
+  ]
+}
